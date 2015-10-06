@@ -1,0 +1,20 @@
+#app-content-wrapper #app-content{
+    height: 100%;
+}
+#inner-app-content{
+    padding: 0;
+}
+
+#tabs{
+    /*display: inline-block;*/
+    /*vertical-align: top;*/
+    width:38%;
+    margin-left: 1%;
+    position: fixed;
+    top: 20%;
+    height: 60%;
+    right: 0;
+    border-radius: 5px 0 0 10px;
+    background-color: white;
+    border: 1px solid #ddd;
+}
